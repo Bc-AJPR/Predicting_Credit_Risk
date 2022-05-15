@@ -6,11 +6,13 @@ In this assignment, you will be building a machine learning model that attempts 
 
 LendingClub is a peer-to-peer lending services company that allows individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market. LendingClub offers their previous data through an API.
 
-You will be using this data to create machine learning models to classify the risk level of given loans. Specifically, you will be comparing the Logistic Regression model and Random Forest Classifier.
-
 ## Instructions
-
-### Retrieve the data
+<p align="center">
+  <img src=".\Images\subprime.jpg" />
+</p>
+  https://greekshares.com/wp-content/uploads/2018/12/subprime.jpg
+  
+### Retrieve the data!
 
 In the `Generator` folder in `Resources`, there is a [GenerateData.ipynb](/Resources/Generator/GenerateData.ipynb) notebook that will download data from LendingClub and output two CSVs: 
 
